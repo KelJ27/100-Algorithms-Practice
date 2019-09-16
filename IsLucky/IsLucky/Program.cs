@@ -11,11 +11,15 @@ namespace IsLucky
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //Console.ReadKey();
+            
 
             Class1 test = new Class1();
 
-            test.IsLucky(1234);
+            if (test.IsLucky("239017") == true)
+                Console.WriteLine("True!!! Ticket number is lucky.");
+            else
+                Console.WriteLine("False!!! Ticket number is unlucky.");
+
         }
     }
 }

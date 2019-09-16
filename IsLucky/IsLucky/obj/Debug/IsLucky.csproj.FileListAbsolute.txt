@@ -5,3 +5,9 @@ C:\Users\dojo5\OneDrive\Documents\100 Algorithms\100 Algorithms\IsLucky\IsLucky\
 C:\Users\dojo5\OneDrive\Documents\100 Algorithms\100 Algorithms\IsLucky\IsLucky\obj\Debug\IsLucky.csproj.CoreCompileInputs.cache
 C:\Users\dojo5\OneDrive\Documents\100 Algorithms\100 Algorithms\IsLucky\IsLucky\obj\Debug\IsLucky.exe
 C:\Users\dojo5\OneDrive\Documents\100 Algorithms\100 Algorithms\IsLucky\IsLucky\obj\Debug\IsLucky.pdb
+C:\Users\dojo5\OneDrive\Documents\100 Algorithms Practice\IsLucky\IsLucky\bin\Debug\IsLucky.exe.config
+C:\Users\dojo5\OneDrive\Documents\100 Algorithms Practice\IsLucky\IsLucky\bin\Debug\IsLucky.exe
+C:\Users\dojo5\OneDrive\Documents\100 Algorithms Practice\IsLucky\IsLucky\bin\Debug\IsLucky.pdb
+C:\Users\dojo5\OneDrive\Documents\100 Algorithms Practice\IsLucky\IsLucky\obj\Debug\IsLucky.csproj.CoreCompileInputs.cache
+C:\Users\dojo5\OneDrive\Documents\100 Algorithms Practice\IsLucky\IsLucky\obj\Debug\IsLucky.exe
+C:\Users\dojo5\OneDrive\Documents\100 Algorithms Practice\IsLucky\IsLucky\obj\Debug\IsLucky.pdb
